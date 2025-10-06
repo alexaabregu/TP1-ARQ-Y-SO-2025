@@ -1,0 +1,203 @@
+pwd
+ls
+man -ls
+man ls
+ssh-keygen
+pwd
+ssh-keygen
+pwd
+cd home
+pwd
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+pwd
+cd vagrant
+pwd
+cd /vagrant
+cd ..
+pwd
+sudo apt install git
+git --version
+git clone git@github.com:alexaabregu/TP1-ARQ-Y-SO-2025.git
+cp README TP1-ARQ-Y-SO-2025/
+PWD
+pwd
+git clone git@github.com:alexaabregu/TP1-ARQ-Y-SO-2025.git
+ls -la -/.ssh
+ls -la
+cd .ssh
+ls
+cat /id_rsa.pub
+cat id_rsa.pub
+pwd
+cd ..
+ls
+pwd
+ls -la
+cd .ssh
+cd ..
+git clone git@github.com:alexaabregu/TP1-ARQ-Y-SO-2025.git
+ls
+cp README TP1-ARQ-Y-SO-2025/
+cd TP1-ARQ-Y-SO-2025/
+ls -la
+git status
+git add README
+git status
+git commit -m “Primer Archivo"
+
+pwd
+
+
+git commit -m "Primer Archivo"
+
+
+
+cd TP1-ARQ-Y-SO-2025/
+git commit -m "Primer Archivo"
+cd ..
+git config --global user.name "alexaabregu"
+git commit -m "primer archivo"
+git clone git@github.com:alexaabregu/TP1-ARQ-Y-SO-2025.git
+cd TP1-ARQ-Y-SO-2025/
+git commit -m "primer archivo"
+git push origin main
+git push -u origin main
+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
+pwd
+cd ..
+ls
+pwd
+ls
+cd ..
+ls
+cd vagrant
+pwd
+ls
+cd repogit
+git clone git@github.com:alexaabregu/TP1-ARQ-Y-SO-2025.git
+cd TP1-ARQ-Y-SO-2025/
+pwd
+ls -l
+cat /etc/mtab
+man grep
+grep SYSFS /etc/mtab
+grep -i Sysfs /etc/mtab
+grep -i Syfs /etc/mtab > datos_sys.txt
+git push origin main
+dws
+pwd
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt 
+git add .
+git config --global user.email "alexaabreguprograma@gmail.com"
+git config --global "user.name alexaabregu"
+git config --global user.name "alexaabregu"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt" 
+git status
+git push
+git status
+whoami
+pwd
+ls
+man cap
+man cat
+grep "$(whoami):" /etc/passwd | awk -f: "{print $5, %6}" >> datos_usuario.txt
+pwd
+ls
+cd ..
+ls
+cd ..
+ls
+cd repogit
+ls
+cd TP1-ARQ-Y-SO-2025
+ls
+"$(whoami)" /etc/passwd | awk -f: "{print $5, %6}" >> datos_usuario.txt
+grep "^$(whoami):" /etc/passwd | awk -f: "{print $5, %6}" >> datos_usuario.txt
+grep "^$(whoami)" /etc/passwd | awk -f: '{print $5, %6}' >> datos_usuario.txt
+grep "$(whoami)" /etc/passwd | awk -F: '{print $5, $6}' >> datos_usuario.txt
+cat datos_usuario.txt
+git add .
+git commit -m "feat: Añadiendo información del Usuario"
+git status
+git push
+git status
+cat cat << EOF >> README.md
+Alumna: Alexa Padilla
+Division: 115-2
+Turno: Mañana
+EOF
+
+cat README.md
+ls
+cat README
+cat README.md
+cat << EOF >> README.md
+Alumna: Alexa Padilla Abregu
+Division: 115-2
+Turno: Mañana
+EOF
+
+cat README.md
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+git status
+tree clases/
+sudo apt install tree
+sudo snap install tree
+pwd
+cd $home
+pwd
+mkdir -p TP1/{{arquitectura,so}/Clase{1..5},so/Clase 6}
+ls r TP1
+ls -r TP1
+tree TP1/
+tree TP1
+clear
+tree TP1
+mkdir -p ejercicio2/{arquitectura/Clase{1..5},so/Clase{1..6}}}
+tree TP1/
+mkdir -p TP1/{arquitectura/Clase{1..5},so/Clase{1..6}}}
+tree TP1
+rm -rf TP1
+tree TP1
+mkdir -p TPI/{arquitectura,SO}/Clase{1..5}
+tree TP1
+ls
+rm -rf ejercicio2
+ls
+rm -rf 6} 
+ls
+cd TP1
+cd TPI
+ls
+tree TPI
+tree TPI/
+ls -SO
+ls
+cd ..
+ls
+rm -rf TPI
+tree TP1
+mkdir -p TP1/{arquitectura/{Clase{1..5}},so/{Clase{1..6}}}
+tree TP1
+rm -rf TP1
+tree TP1
+mkdir -p TP1/{arquitectura/Clase{1..5},so/Clase{1..6}}
+tree TP1
+echo '#!/bin/bash' > script_dir.sh
+echo 'mkdir -p TP1/{arquitectura/Clase{1..5},so/Clase{1..6}}' >> script_dir.sh
+chmod +x script_dir.sh
+pwd
+cd repogit
+ls
+cd TP1-ARQ-Y-SO-2025
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
